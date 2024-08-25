@@ -1,2 +1,2 @@
 User: admin
-Password: restaurant123*
+Password: admin
